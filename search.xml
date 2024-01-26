@@ -11,6 +11,24 @@
         <content type="html"><![CDATA[<h3 id="Typora-常用快捷键："><a href="#Typora-常用快捷键：" class="headerlink" title="Typora 常用快捷键："></a>Typora 常用快捷键：</h3><ol><li><p>切换编辑语法模式&#x2F;预览模式： <code>Ctrl + /</code></p></li><li><p>标题：</p><ul><li>一级标题：<code># + 空格 + 标题内容</code></li><li>二级标题：<code>## + 空格 + 标题内容</code></li><li>…</li><li>六级标题：<code>###### + 空格 + 标题内容</code></li></ul></li><li><p>粗体：<code>Ctrl + B</code></p></li><li><p>斜体：<code>Ctrl + I</code></p></li><li><p>表格：<code>Ctrl + T</code></p></li><li><p>代码块：&#96;&#96;&#96; + Enter</p></li><li><p>引用：<code>&gt; + 空格</code></p></li><li><p>转义字符：<code>\ + 字符</code></p></li><li><p>无序列表：<code>- + 空格</code> 或 <code>* + 空格</code></p></li><li><p>有序列表：<code>数字 + . + 空格</code></p></li><li><p>生成目录：<code>[TOC] + Enter</code></p></li><li><p>选中一整行：<code>Ctrl + L</code></p></li><li><p>选中单词：<code>Ctrl + D</code></p></li><li><p>选中相同格式的文字：<code>Ctrl + E</code></p></li><li><p>跳转到文章开头：<code>Ctrl + Home</code></p></li><li><p>跳转到文章结尾：<code>Ctrl + End</code></p></li><li><p>搜索：<code>Ctrl + F</code></p></li><li><p>替换：<code>Ctrl + H</code></p></li><li><p>插入链接：<code>Ctrl + K</code></p></li><li><p>数学公式：<code>$ + Enter</code></p></li><li><p>表情：<code>: + 单词 + :</code></p></li><li><p>插入图片：直接拖动到指定位置或 <code>Ctrl + Shift + I</code></p></li></ol><h3 id="Typora-常用格式及操作："><a href="#Typora-常用格式及操作：" class="headerlink" title="Typora 常用格式及操作："></a>Typora 常用格式及操作：</h3><ol><li>删除线：<code>Alt + Shift + 5</code> 或 <code>~~内容~~</code></li><li>下标：<code>&lt;sub&gt;内容&lt;/sub&gt;</code></li><li>上标：<code>&lt;sup&gt;内容&lt;/sup&gt;</code></li><li>脚注：<code>[+^+脚注]</code></li><li>高亮：<code>==内容==</code></li><li>着重：<code>Ctrl + Shift + \</code></li><li>淡化：<code>+内容+</code></li><li>转义：<code>\ + 符号</code></li><li>清除格式：<code>Ctrl + \</code></li><li>居中：<code>&lt;center&gt; + 居中内容 + &lt;center&gt;</code></li><li>右对齐：<code>&lt;p align=“right”&gt;右对齐&lt;/p&gt;</code></li><li>左对齐：<code>&lt;p align=“left”&gt;左对齐&lt;/p&gt;</code></li><li>换行：回车或 <code>&lt;br/&gt;</code></li><li>空格（一个汉字俩空格）：<code> </code> (一个空格) 或 <code> </code> (两个空格）</li></ol><h3 id="Typora-常用操作："><a href="#Typora-常用操作：" class="headerlink" title="Typora 常用操作："></a>Typora 常用操作：</h3><ol><li>新建：<code>Ctrl + N</code></li><li>新建窗口：<code>Ctrl + Shift + N</code></li><li>打开：<code>Ctrl + O</code></li><li>保存：<code>Ctrl + S</code></li><li>另存为：<code>Ctrl + Shift + S</code></li><li>关闭：<code>Ctrl + W</code></li><li>撤销：<code>Ctrl + Z</code></li><li>重做：<code>Ctrl + Y</code></li><li>复制为 MarkDown：<code>Ctrl + Shift + C</code></li><li>粘贴为纯文本：<code>Ctrl + Shift + V</code></li><li>选中当前行&#x2F;句：<code>Ctrl + L</code></li><li>选中当前格式文本：<code>Ctrl + E</code></li><li>选中当前词：<code>Ctrl + D</code></li><li>跳转到文首：<code>Ctrl + Home</code></li><li>跳转到文末：<code>Ctrl + End</code></li><li>查找：<code>Ctrl + F</code></li><li>替换：<code>Ctrl + H</code></li><li>大纲视图：<code>Ctrl + Shift + 1</code></li><li>文档列表视图：<code>Ctrl + Shift + 2</code></li><li>文件树视图：<code>Ctrl + Shift + 3</code></li><li>显示&#x2F;隐藏侧边栏：<code>Ctrl + Shift + L</code></li><li>源代码模式：<code>Ctrl + /</code></li><li>专注模式：<code>F8</code></li><li>打字机模式：<code>F9</code></li><li>切换全屏：<code>F11</code></li><li>实际大小：<code>Ctrl + Shift + 0</code></li><li>放大&#x2F;缩小：<code>Ctrl + Shift + +</code> &#x2F; <code>Ctrl + Shift + -</code></li><li>应用内窗口切换：<code>Ctrl + Tab</code></li><li>打开 DevTools：<code>Shift + F12</code></li></ol><h3 id="Typora-导出文件："><a href="#Typora-导出文件：" class="headerlink" title="Typora 导出文件："></a>Typora 导出文件：</h3><ol><li>文件 → 导出 → 选择要导出文件的格式</li></ol><p>请根据需要整理和使用上述快捷键和操作。希望这份整理对您有帮助！</p>]]></content>
       
       
+      <categories>
+          
+          <category> 快捷键 </category>
+          
+          <category> Typora </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 快捷键 </tag>
+            
+            <tag> Typora的快捷键 </tag>
+            
+            <tag> 工作效率 </tag>
+            
+        </tags>
       
     </entry>
     
